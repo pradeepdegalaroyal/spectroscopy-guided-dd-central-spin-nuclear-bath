@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Spectroscopy-Guided Dynamical-Decoupling Selection for an Electron-Spin Memory in a Nuclear-Spin Bath"
+type: software
+authors:
+  - family-names: Chenchupradeep
+    given-names: Degala
+version: 0.1.0
+date-released: 2026-11-09
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/spectroscopy-guided-dd-central-spin-nuclear-bath"
+abstract: "Simulation study of whether a classical filter-function surrogate fitted to a few dynamical-decoupling coherence probes can choose the best decoupling sequence for an electron spin coupled to a quantum nuclear-spin bath, compared with model-free selection under equal shot budgets."
+keywords:
+  - dynamical decoupling
+  - central spin model
+  - quantum dot
+  - noise spectroscopy
